@@ -8,7 +8,7 @@
 👨‍💻Soy un joven apasionado por la programación y la ciberseguridad... Actualmente tengo amplios conocimientos en: (Backend): Java, Spring & SQL, noSQL
 (Front) HTML5, CSS3, JavaScript, JavaFX, Swing, .NET
 
-Actualmente, mientras finalizo mi formación en el CFGS de Desarrollo de aplicaciones Multiplataforma , al mismo tiempo estoy adquiriendo conocimientos sobre Python, Criptografía, Pentesting y Hacking Ético. Todo esto con el fin de combinar mis conocimientos sobre desarrollo y ciberseguridad para aportar el mayor valor posible al secto
+Actualmente, mientras finalizo mi formación en el CFGS de Desarrollo de aplicaciones Multiplataforma , al mismo tiempo estoy adquiriendo conocimientos sobre Python, Criptografía, Pentesting y Hacking Ético. Todo esto con el fin de combinar mis conocimientos sobre desarrollo y ciberseguridad para aportar el mayor valor posible al sector
 <br>
 
 ## 💡 Skills
